@@ -1,15 +1,1 @@
-def main():
-    print("Hello from Neovim")
-
-
-if __name__ == "__main__":
-    main()
-"""
-hello
-"""
-'''
-hello again
-'''
-'''
-hello again
-'''
+print('hello world')
